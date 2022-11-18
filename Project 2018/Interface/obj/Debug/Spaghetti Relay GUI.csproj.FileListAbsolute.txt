@@ -1,0 +1,10 @@
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Debug\Spaghetti Relay GUI.exe.config
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Debug\Spaghetti Relay GUI.exe
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Debug\Spaghetti Relay GUI.pdb
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.csprojAssemblyReference.cache
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti_Relay_GUI.Properties.Resources.resources
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Message_Relay_GUI.SpaghettiForm.resources
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.csproj.GenerateResource.cache
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.csproj.CoreCompileInputs.cache
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.exe
+C:\Users\enzoh\Desktop\FullSail\CNE\SpaghettiRelay\Project 2018\Interface\obj\Debug\Spaghetti Relay GUI.pdb
