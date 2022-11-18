@@ -10,4 +10,4 @@ Main Files in:
 * Client\Client.cpp
 
 
-Project 2018\Debug\Spaghetti Relay GUI.exe
+Executable: Project 2018\Debug\Spaghetti Relay GUI.exe
